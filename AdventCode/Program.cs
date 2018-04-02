@@ -6,6 +6,7 @@ using static AdventCode.Day4;
 using static AdventCode.Day5;
 using static AdventCode.Day6;
 using static AdventCode.Day7;
+using static AdventCode.Day8;
 
 namespace AdventCode
 {
@@ -20,6 +21,7 @@ namespace AdventCode
             RunDay5();
             RunDay6();
             RunDay7();
+            RunDay8();
 
             Console.ReadLine();
         }
